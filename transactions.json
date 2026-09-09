@@ -1,0 +1,16 @@
+[
+    {
+        "transaction_type": "Income",
+        "amount": 10000,
+        "category": "salary",
+        "date": "10/09/2026",
+        "note": "Monthly salary"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 500,
+        "category": "food",
+        "date": "10/09/2026",
+        "note": "Lunch"
+    }
+]
